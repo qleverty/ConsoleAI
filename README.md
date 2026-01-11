@@ -1,4 +1,4 @@
-<img width="773" height="154" alt="Image" src="https://github.com/user-attachments/assets/cdf681d9-5c42-4f56-999e-976664c7125e" />
+<img width="773" height="154" alt="Image" src="https://github.com/user-attachments/assets/a9a61505-71ff-4296-9776-8923d3ddc5c9" />
 
 # ConsoleAI
 
